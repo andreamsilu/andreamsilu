@@ -19,8 +19,6 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
-   
    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
   <a href="https://flutter.dev/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/> </a>
     <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/7950F2/php-logo.png" alt="php-logo"/> </a>
