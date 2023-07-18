@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   ###testing
   ### Tools and Languages Used:
 
-- [:computer: HTML](https://en.wikipedia.org/wiki/HTML)
+- [:HTML: HTML](https://en.wikipedia.org/wiki/HTML)
 - [:art: CSS](https://en.wikipedia.org/wiki/CSS)
 - [:sparkles: JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - [:diamond_shape_with_a_dot_inside: Bootstrap](https://getbootstrap.com/)
