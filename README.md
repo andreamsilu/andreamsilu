@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://www.linkedin.com/in/andrea-msilu-4576aa214"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/@marxlin21"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/andrewmsilu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://wa.me/0754289824?text="><img width="48" height="48" src="https://img.icons8.com/officel/48/whatsapp.png" alt="whatsapp"/></a>
+<a href = "https://wa.me/255754289824?text=Hi%20%F0%9F%91%8B%20am%20Andrew%20..%20how%20can%20I%20help%20you%3F%3F%20"/></a>
 </p>
