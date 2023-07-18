@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
- <h4> 🚀 Tools </h4>
+<h3> 🚀 Tools  </h3>
 <p>
      <a style="padding-right:8px;" href="http://ubuntu.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/></a>
       <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
@@ -40,9 +40,10 @@ You can click the Preview link to take a look at your changes.
 <br/>
  
 
-###Reach me out
+<h3>Reach me out </h3>
 <p align="left">
 <a href = "https://www.linkedin.com/in/andrea-msilu-4576aa214"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/@marxlin21"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/andrewmsilu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://wa.me/0754289824?text="><img width="48" height="48" src="https://img.icons8.com/officel/48/whatsapp.png" alt="whatsapp"/></a>
 </p>
