@@ -55,23 +55,28 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://twitter.com/@marxlin21"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/andrewmsilu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://wa.me/255754289824?text=Hi%20%F0%9F%91%8B%20am%20Andrew%20..%20how%20can%20I%20help%20you%3F%3F%20"/> <img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/whatsapp.png" alt="whatsapp"/></a>
- <a href = "developermsilu@gmail.com"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/></a>
+ <a href = "https://msiluandrew2020@gmail.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/></a>
 </p>
 </div>
 
 ---
+ <p align = "center">
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height = "80" >   
+ </p>
+
+
  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
- <div>
-      
+<p align ="center">
+     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreamsilu&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
 
-<div>
+</p>
+
+<p align = "center">
      
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreamsilu&show_icons=true&theme=blue-green)
 
-</div>
+</p>
+
 
 ---
