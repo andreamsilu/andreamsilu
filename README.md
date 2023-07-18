@@ -30,7 +30,18 @@ You can click the Preview link to take a look at your changes.
 - [![PHP](https://example.com/php-icon.png "PHP")](https://www.php.net/)
 - [![Flutter](https://example.com/flutter-icon.png "Flutter")](https://flutter.dev/)
 
+  ###testing
+  ### Tools and Languages Used:
 
+- [:computer: HTML](https://en.wikipedia.org/wiki/HTML)
+- [:art: CSS](https://en.wikipedia.org/wiki/CSS)
+- [:sparkles: JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [:diamond_shape_with_a_dot_inside: Bootstrap](https://getbootstrap.com/)
+- [:elephant: PHP](https://www.php.net/)
+- [:calling: Flutter](https://flutter.dev/)
+
+
+###Reach me out
 - [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
