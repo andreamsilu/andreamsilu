@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 ### Tools and Languages Used:
 
 - :html5: HTML
+- #E34F26
 - :css3: CSS
 - :javascript: JavaScript
 - :bootstrap: Bootstrap
