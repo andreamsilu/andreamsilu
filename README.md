@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 - :html5: HTML
 - #E34F26
 - :css3: CSS
-- :javascript: JavaScript
+- :javascript: JavaScript![html5](https://github.com/andreamsilu/andreamsilu/assets/84381613/e334c708-0b93-4bd9-a696-d136e7d9c795)
+
 - :bootstrap: Bootstrap
 - :php: PHP
 - :flutter: Flutter
