@@ -56,6 +56,7 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://instagram.com/andrewmsilu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://wa.me/255754289824?text=Hi%20%F0%9F%91%8B%20am%20Andrew%20..%20how%20can%20I%20help%20you%3F%3F%20"/> <img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/whatsapp.png" alt="whatsapp"/></a>
  <a href = "https://msiluandrew2020@gmail.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/></a>
+<a href = "https://andreamsilu.github.io"><img width="48" height="48" src="https://img.icons8.com/fluency/48/domain.png" alt="domain"/></a>
 </p>
 </div>
 
