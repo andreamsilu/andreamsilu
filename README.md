@@ -1,11 +1,9 @@
 
 - 👋 Hi, I’m @andreamsilu
 - 👀 I’m software developer
-- 🌱 I’m currently learning flutter framework 
 - 💞️ I’m looking to collaborate on next projects especially mobile applications
 - 📫 Contact me through +255754289824 for both whatsap and calls
      msiluandrew2020@gmail.com
-
 - Read more about me https://andreamsilu.github.io
 
 ---
